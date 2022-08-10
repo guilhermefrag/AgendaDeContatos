@@ -1,4 +1,4 @@
-/*
+
 1. Criar a classe Contato com os seguintes atributos:
     a. Nome;
     b. Email;
@@ -13,4 +13,4 @@
     c. remover() : remove da lista um contato pelo nome
     
   Ativadade para matéria de Estrutura de Dados II - UNESC
- */ 
+
