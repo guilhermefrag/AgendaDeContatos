@@ -1,5 +1,4 @@
 /*
-
 1. Criar a classe Contato com os seguintes atributos:
     a. Nome;
     b. Email;
